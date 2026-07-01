@@ -1,24 +1,12 @@
-Reserva Ai!
-------------------
+¡Reserva AI!
+¿Qué es?
+¡Reserva AI! es un sistema web de código abierto (open-source) desarrollado para realizar el control de reservas y préstamos de bienes.
 
-#### O que é?
+¡Con RA! podrás gestionar las reservas de esa sala de reuniones tan concurrida, los proyectores de la universidad, las computadoras del laboratorio y todo lo que se te ocurra registrar en el sistema!
 
-O **Reserva Ai!** é um sistema web open-source desenvolvido para 
-realizar o controle de reserva e empréstimos de bens.
+El flujo de reserva y préstamo fue pensado de la manera más genérica posible para poder adaptarse a la mayor cantidad de situaciones.
 
-Como o **RA!** você poderá gerenciar as reservas daquela sala 
-de reunião super concorrida, os projetores da faculdade, os computadores
-do laboratório e tudo mais que você conseguir cadastrar no sistema!
+Tecnología
+El proyecto aún está en fase de desarrollo, lo que significa que todavía faltan muchas funciones por implementar y se podrían sumar nuevas herramientas. Sin embargo, la base tecnológica es el consagrado Spring Framework, utilizando Vue.js para la interfaz de usuario.
 
-O fluxo de reserva e empréstimo foi pensando da maneira mais genérica 
-possível para que a maior quantidade de situações possíveis fossem
-atendidas.
-
-#### Tecnologia   
-
-O esta ainda em fase de desenvolvimento, ou seja, muita coisa ainda
-precisa ser adicionada e algumas tecnologias ainda podem ser adicionadas
-porém a base tecnológica é o consagrado *Spring Framework* utilizando 
-como interface o *Vue.JS*.
-
-Mais detalhes sobre o projeto vão estar disponíveis em breve!
+¡Pronto habrá más detalles disponibles sobre el proyecto!
